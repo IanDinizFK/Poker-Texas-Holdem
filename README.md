@@ -34,6 +34,5 @@
 **Apresente as instruções necessárias para abrir e executar o projeto**
 
 # Autores
-https://avatars.githubusercontent.com/u/51161747?v=4
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/51161747?v=4" width=115><br><sub>Ian Diniz</sub>](https://github.com/IanDinizFK) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/95944227?v=4" width=115><br><sub>Kaio Emanuel</sub>](https://github.com/zKerc) |
 | :---: | :---: |
