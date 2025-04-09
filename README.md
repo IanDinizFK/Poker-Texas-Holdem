@@ -1,38 +1,49 @@
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=BLUE&style=for-the-badge"/>
 </p>
 
-# Poker Texas Holde'em em Golang
-# Índice 
+# ♠️ Texas Hold'em Poker em Go ♣️
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+Bem-vindo ao projeto de **Texas Hold'em Poker** feito em **Go (Golang)**!  
+Este é um jogo de poker jogável via terminal, com suporte a múltiplos jogadores e gerenciamento completo das rodadas.  
+Feito com foco em simplicidade, organização e diversão 😄
 
-  # :hammer: Funcionalidades do projeto
+---
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+## 🚀 Funcionalidades
 
-# 📁 Acesso ao projeto
+- 🧠 Regras implementadas com base no Texas Hold'em tradicional
+- 🤝 Criação de jogadores e dealer
+- ✅ Baralho embaralhado dinamicamente ♟️
+- 🏆 Determinação automática do vencedor
+- 🃏 Múltiplas rodadas: Pré-flop, Flop, Turn e River   
+- 💻 Interface via terminal (CLI)
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+---
 
-# 🛠️ Abrir e rodar o projeto
+## 📁 Estrutura do Projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+```bash
+📦 poker-go/
+├── 📂 cards/          # Lógica e estrutura das cartas
+├── 📂 game/           # Controle das fases do jogo e mesa
+├── 📂 player/         # Modelagem dos jogadores e ações
+├── 📂 utils/          # Funções auxiliares e suporte
+├── 📄 main.go         # Ponto de entrada do jogo
+└── 📄 go.mod          # Arquivo de dependências do Go
+```
 
-# Autores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/51161747?v=4" width=115><br><sub>Ian Diniz</sub>](https://github.com/IanDinizFK) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/95944227?v=4" width=115><br><sub>Kaio Emanuel</sub>](https://github.com/zKerc) |
-| :---: | :---: |
+## 🛠️ Como Executar o Projeto
+
+Siga os passos abaixo para rodar o sistema do jogo Texas Hold'em em Go:
+
+---
+
+### 📥 1. Clone o Repositório
+
+Abra o terminal e digite:
+
+```bash
+git clone https://github.com/seu-usuario/poker-go.git
+cd poker-go
+```
