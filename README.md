@@ -44,6 +44,6 @@ Siga os passos abaixo para rodar o sistema do jogo Texas Hold'em em Go:
 Abra o terminal e digite:
 
 ```bash
-git clone https://github.com/seu-usuario/poker-go.git
+git clone https://github.com/IanDinizFK/Poker-Texas-Holdem.git
 cd poker-go
 ```
